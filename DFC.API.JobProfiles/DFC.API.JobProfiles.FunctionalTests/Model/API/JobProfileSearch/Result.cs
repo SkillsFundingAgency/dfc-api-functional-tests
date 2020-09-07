@@ -1,7 +1,7 @@
-﻿using DFC.Api.JobProfiles.IntegrationTests.Model.API.JobProfileDetails;
+﻿using DFC.API.JobProfiles.FunctionalTests.Model.API.JobProfileDetails;
 using System.Collections.Generic;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Model.API.JobProfileSearch
+namespace DFC.API.JobProfiles.FunctionalTests.Model.API.JobProfileSearch
 {
     public class Result
     {

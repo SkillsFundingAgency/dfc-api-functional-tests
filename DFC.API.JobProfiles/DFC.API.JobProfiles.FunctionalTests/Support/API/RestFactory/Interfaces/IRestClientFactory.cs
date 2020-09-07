@@ -1,7 +1,7 @@
 ﻿using RestSharp;
 using System;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Support.API.RestFactory.Interfaces
+namespace DFC.API.JobProfiles.FunctionalTests.Support.API.RestFactory.Interfaces
 {
     public interface IRestClientFactory
     {

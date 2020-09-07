@@ -1,9 +1,9 @@
-﻿using DFC.Api.JobProfiles.IntegrationTests.Model.Support;
-using DFC.Api.JobProfiles.IntegrationTests.Support.AzureServiceBus.ServiceBusFactory.Interfaces;
+﻿using DFC.API.JobProfiles.FunctionalTests.Model.Support;
+using DFC.API.JobProfiles.FunctionalTests.Support.AzureServiceBus.ServiceBusFactory.Interfaces;
 using Microsoft.Azure.ServiceBus;
 using System.Threading.Tasks;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Support.AzureServiceBus
+namespace DFC.API.JobProfiles.FunctionalTests.Support.AzureServiceBus
 {
     public class ServiceBusSupport : IServiceBusSupport
     {

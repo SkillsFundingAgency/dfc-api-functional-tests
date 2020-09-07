@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Model.API.JobProfileDetails
+namespace DFC.API.JobProfiles.FunctionalTests.Model.API.JobProfileDetails
 {
     public class JobProfileDetailsAPIResponse
     {

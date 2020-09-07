@@ -1,7 +1,7 @@
-﻿using DFC.Api.JobProfiles.IntegrationTests.Model.ContentType.JobProfile;
+﻿using DFC.API.JobProfiles.FunctionalTests.Model.ContentType.JobProfile;
 using System.Collections.Generic;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Model.ContentType
+namespace DFC.API.JobProfiles.FunctionalTests.Model.ContentType
 {
     public class SocSkillsMatrixDataContentType
     {

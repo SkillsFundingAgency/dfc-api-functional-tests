@@ -1,11 +1,11 @@
-﻿using DFC.Api.JobProfiles.IntegrationTests.Model.Support;
+﻿using DFC.API.JobProfiles.FunctionalTests.Model.Support;
 using Microsoft.Extensions.Configuration;
 using NLog;
 using NLog.Targets;
 using System;
 using System.IO;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Support
+namespace DFC.API.JobProfiles.FunctionalTests.Support
 {
     public class SetUpAndTearDownBase
     {

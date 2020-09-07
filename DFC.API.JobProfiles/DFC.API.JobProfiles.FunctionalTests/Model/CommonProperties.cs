@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Model
+namespace DFC.API.JobProfiles.FunctionalTests.Model
 {
     public class CommonProperties
     {

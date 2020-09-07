@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Model.ContentType.JobProfile
+namespace DFC.API.JobProfiles.FunctionalTests.Model.ContentType.JobProfile
 {
     public class LinksContentType
     {

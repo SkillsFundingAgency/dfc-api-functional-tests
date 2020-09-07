@@ -1,6 +1,6 @@
 ﻿using Microsoft.Azure.ServiceBus;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Support.AzureServiceBus.ServiceBusFactory.Interfaces
+namespace DFC.API.JobProfiles.FunctionalTests.Support.AzureServiceBus.ServiceBusFactory.Interfaces
 {
     public interface IMessageFactory
     {

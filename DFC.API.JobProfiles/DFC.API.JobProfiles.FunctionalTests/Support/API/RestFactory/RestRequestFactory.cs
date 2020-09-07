@@ -1,7 +1,7 @@
-﻿using DFC.Api.JobProfiles.IntegrationTests.Support.API.RestFactory.Interfaces;
+﻿using DFC.API.JobProfiles.FunctionalTests.Support.API.RestFactory.Interfaces;
 using RestSharp;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Support.API.RestFactory
+namespace DFC.API.JobProfiles.FunctionalTests.Support.API.RestFactory
 {
     internal class RestRequestFactory : IRestRequestFactory
     {

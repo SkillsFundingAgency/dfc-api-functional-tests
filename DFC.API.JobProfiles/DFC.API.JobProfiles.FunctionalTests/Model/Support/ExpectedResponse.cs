@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Model.Support
+namespace DFC.API.JobProfiles.FunctionalTests.Model.Support
 {
     public class ExpectedResponse
     {

@@ -1,11 +1,11 @@
-﻿using DFC.Api.JobProfiles.IntegrationTests.Model.API.JobProfileSummary;
-using DFC.Api.JobProfiles.IntegrationTests.Model.Support;
-using DFC.Api.JobProfiles.IntegrationTests.Support.API.RestFactory.Interfaces;
+﻿using DFC.API.JobProfiles.FunctionalTests.Model.API.JobProfileSummary;
+using DFC.API.JobProfiles.FunctionalTests.Model.Support;
+using DFC.API.JobProfiles.FunctionalTests.Support.API.RestFactory.Interfaces;
 using RestSharp;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Support.API
+namespace DFC.API.JobProfiles.FunctionalTests.Support.API
 {
     public class JobProfileApi : IJobProfileApi
     {

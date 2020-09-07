@@ -1,4 +1,4 @@
-﻿namespace DFC.Api.JobProfiles.IntegrationTests.Support.CommonAction.Interface
+﻿namespace DFC.API.JobProfiles.FunctionalTests.Support.CommonAction.Interface
 {
     internal interface IGeneralSupport
     {

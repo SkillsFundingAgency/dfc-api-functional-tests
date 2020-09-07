@@ -1,14 +1,14 @@
-﻿using DFC.Api.JobProfiles.IntegrationTests.Model.API.JobProfileSearch;
-using DFC.Api.JobProfiles.IntegrationTests.Model.Support;
-using DFC.Api.JobProfiles.IntegrationTests.Support;
-using DFC.Api.JobProfiles.IntegrationTests.Support.API;
-using DFC.Api.JobProfiles.IntegrationTests.Support.API.RestFactory;
+﻿using DFC.API.JobProfiles.FunctionalTests.Model.API.JobProfileSearch;
+using DFC.API.JobProfiles.FunctionalTests.Model.Support;
+using DFC.API.JobProfiles.FunctionalTests.Support;
+using DFC.API.JobProfiles.FunctionalTests.Support.API;
+using DFC.API.JobProfiles.FunctionalTests.Support.API.RestFactory;
 using NUnit.Framework;
 using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace DFC.Api.JobProfiles.IntegrationTests.Test
+namespace DFC.API.JobProfiles.FunctionalTests.Test
 {
     public class SearchTest : SetUpAndTearDownBase
     {
