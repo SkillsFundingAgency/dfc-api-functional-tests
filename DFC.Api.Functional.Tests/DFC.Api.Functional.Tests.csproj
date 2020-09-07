@@ -6,7 +6,7 @@
     <ProjectGuid>{3B4185E4-B4B2-4C29-B0BC-79C7DC27CD74}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.29" />
+    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.6" />
   </ItemGroup>
   <ItemGroup>
     <None Update="host.json">
